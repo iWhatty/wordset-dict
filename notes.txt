@@ -17,6 +17,9 @@
 - Omitted narrow taxonomic and duplicate execution-rope entries when they do not reflect current general usage.
 - Framed phrasal verb examples around contemporary speech situations to keep senses concrete.
 - Retired archaic idiom duplicates when a modern equivalent already carries the sense.
+2025-11-03: Processed slim/u.min.json entries unaccompanied – unangry (60 words).
+- Tag multiword adjective lemmas with the adjective label instead of introducing new speech-part values.
+- Distinguish identical forms used adjectivally and adverbially when modern usage clearly supports both.
 2025-11-03: Processed slim/v.min.json entries vatical – vented (60 words).
 - Treated Roman numeral lemmas as noun senses with uppercase usage examples to emphasize their symbolic function.
 - Used inclusive, service-oriented examples when defining accessibility descriptors like "visually impaired" and "visually challenged".
