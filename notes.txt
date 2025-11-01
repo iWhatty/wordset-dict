@@ -17,3 +17,6 @@
 - Omitted narrow taxonomic and duplicate execution-rope entries when they do not reflect current general usage.
 - Framed phrasal verb examples around contemporary speech situations to keep senses concrete.
 - Retired archaic idiom duplicates when a modern equivalent already carries the sense.
+2025-11-02: Processed slim/i.min.json entries incomplete – incorruptible (60 words).
+- Used "variant spelling of" phrasing when a headword simply redirects to a better-attested form.
+- Trimmed adjective entries to a maximum of two modern senses unless additional meanings reflect clearly distinct contemporary uses.
