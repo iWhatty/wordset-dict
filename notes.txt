@@ -17,3 +17,6 @@
 - Omitted narrow taxonomic and duplicate execution-rope entries when they do not reflect current general usage.
 - Framed phrasal verb examples around contemporary speech situations to keep senses concrete.
 - Retired archaic idiom duplicates when a modern equivalent already carries the sense.
+2025-11-03: Processed slim/r.min.json entries referenced – rotten (60 words).
+- Retired archaic or slang senses for "rum" and "rummy" when not in current general use.
+- Framed technical genetics and mathematics senses with plain-language cues before specialized terminology.
