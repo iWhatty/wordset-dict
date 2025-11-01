@@ -1,0 +1,3 @@
+2024-03-17: Processed slim/d.min.json entries dazzling – deaccession (30 words).
+- Added policy to supply concrete, modern examples for each retained sense.
+- When handling hyphenated variants, include the standard unhyphenated form in synonyms only when it names the same established process.
