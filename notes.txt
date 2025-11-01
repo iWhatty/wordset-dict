@@ -1,3 +1,6 @@
 2024-03-17: Processed slim/d.min.json entries dazzling – deaccession (30 words).
 - Added policy to supply concrete, modern examples for each retained sense.
 - When handling hyphenated variants, include the standard unhyphenated form in synonyms only when it names the same established process.
+2024-03-17: Processed slim/z.min.json entries zero hour – zizz (50 words).
+- Treat variant spellings as standalone entries that explicitly reference the primary lemma in the definition.
+- Use decimal (10^21) values when defining zetta-scale data units unless context requires binary clarification.
