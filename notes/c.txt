@@ -1,0 +1,3 @@
+2025-11-02: Processed slim/c.min.json entries CE – carefully (60 words).
+- Marked calendar abbreviations with speech_part "abbreviation" and defined them through their expanded form.
+- Consolidated broad utility verbs by keeping only widely used modern senses with fresh, concrete examples across parts of speech.

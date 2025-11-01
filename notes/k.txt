@@ -1,0 +1,7 @@
+2025-11-02: Processed slim/k.min.json entries kaoliang – kebab (56 words).
+- Specified decimal (10^3) quantities when defining metric data abbreviations and noted legacy usage where needed.
+- Gave culturally specific food and drink entries grounded, contemporary examples to support accessible usage guidance.
+
+2025-11-02: Processed slim/k.min.json entries kempt – kelp (81 words).
+- Marked historical or variant spellings directly in the definition text so readers know when usage is limited.
+- Trimmed multi-sense verbs to core contemporary meanings and rewrote examples to highlight everyday contexts.

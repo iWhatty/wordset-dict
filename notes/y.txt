@@ -1,0 +1,3 @@
+2025-11-03: Processed slim/y.min.json entries yarmulke – yellow metal (60 words).
+- Paired plant and animal entries with scientific identifiers and observable traits to ground definitions in general reference use.
+- Marked historical medical concepts explicitly as such when context justified retention.

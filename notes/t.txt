@@ -1,0 +1,3 @@
+2025-11-02: Processed slim/t.min.json entries to the full – there (50 words).
+- Marked formal register within definitions instead of relying on archaic cross-references.
+- Trimmed slang-only senses while keeping core modern usages and concise, illustrative examples.

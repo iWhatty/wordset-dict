@@ -1,0 +1,3 @@
+2025-11-03: Processed slim/n.min.json entries narcotised – nasal concha (60 words).
+- Listed scientific or common Latin names for botanic entries when they clarify identification without overloading the definition.
+- Treated variant spellings and spacing (e.g., narrow-body vs. narrowbody) as fully defined lemmas that mutually cross-reference through synonyms.

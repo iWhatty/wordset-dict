@@ -1,0 +1,3 @@
+2025-11-03: Processed slim/r.min.json entries referenced – rotten (60 words).
+- Retired archaic or slang senses for "rum" and "rummy" when not in current general use.
+- Framed technical genetics and mathematics senses with plain-language cues before specialized terminology.

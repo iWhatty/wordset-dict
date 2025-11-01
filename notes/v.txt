@@ -1,0 +1,3 @@
+2025-11-03: Processed slim/v.min.json entries vatical – vented (60 words).
+- Treated Roman numeral lemmas as noun senses with uppercase usage examples to emphasize their symbolic function.
+- Used inclusive, service-oriented examples when defining accessibility descriptors like "visually impaired" and "visually challenged".

@@ -1,0 +1,3 @@
+2025-11-02: Processed slim/i.min.json entries incomplete – incorruptible (60 words).
+- Used "variant spelling of" phrasing when a headword simply redirects to a better-attested form.
+- Trimmed adjective entries to a maximum of two modern senses unless additional meanings reflect clearly distinct contemporary uses.

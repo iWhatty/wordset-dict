@@ -1,0 +1,7 @@
+2024-03-17: Processed slim/z.min.json entries zero hour – zizz (50 words).
+- Treat variant spellings as standalone entries that explicitly reference the primary lemma in the definition.
+- Use decimal (10^21) values when defining zetta-scale data units unless context requires binary clarification.
+
+2025-11-03: Processed slim/z.min.json entries ziggurat – zoom (60 words).
+- Marked historical senses with an explicit usage label when retaining specialist terminology.
+- Used "variant spelling" phrasing for alternative forms while giving them independent contemporary examples.

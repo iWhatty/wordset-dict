@@ -1,0 +1,3 @@
+2025-11-02: Processed slim/o.min.json entries obliging – one-celled (60 words).
+- Consolidated multi-sense headwords around core modern usage with concise, scenario-based examples.
+- Harmonized overlapping phrasal-verb variants by giving each a standalone vigilance example instead of circular cross-references.

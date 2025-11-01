@@ -1,0 +1,4 @@
+2025-11-02: Processed slim/w.min.json entries wackily – wainscotting (66 words reviewed; 61 retained).
+- Retired redundant plural or archaic lemmas (wads, wafture, wain, wage increase, wage schedule) when the core headword already covers the sense.
+- Flagged informal terms and variant spellings within definitions instead of duplicating them through synonyms alone.
+- Added contemporary industry context when defining technical materials such as semiconductor wafers.

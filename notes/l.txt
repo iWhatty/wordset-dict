@@ -1,0 +1,3 @@
+2025-11-03: Processed slim/l.min.json entries lactoflavin – ladybird beetle (58 words).
+- Retired nonstandard or euphemistic lemmas (e.g., ladened, lady of pleasure) when they duplicate a modern primary form.
+- Unified variant plant names by giving the shared botanical description once and cross-referencing through synonyms.
