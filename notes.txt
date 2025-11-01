@@ -17,6 +17,10 @@
 - Omitted narrow taxonomic and duplicate execution-rope entries when they do not reflect current general usage.
 - Framed phrasal verb examples around contemporary speech situations to keep senses concrete.
 - Retired archaic idiom duplicates when a modern equivalent already carries the sense.
+2025-11-02: Processed slim/w.min.json entries wackily – wainscotting (66 words reviewed; 61 retained).
+- Retired redundant plural or archaic lemmas (wads, wafture, wain, wage increase, wage schedule) when the core headword already covers the sense.
+- Flagged informal terms and variant spellings within definitions instead of duplicating them through synonyms alone.
+- Added contemporary industry context when defining technical materials such as semiconductor wafers.
 2025-11-02: Processed slim/e.min.json entries eyed – exasperating (80 words).
 - Marked variant spellings and nonstandard forms explicitly while supplying modern context sentences.
 - Consolidated multi-sense verbs to core literal and figurative uses with contemporary action-oriented examples.
