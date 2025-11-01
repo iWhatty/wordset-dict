@@ -21,3 +21,77 @@
 - Added contextual examples for cardinal and ordinal numerals to reinforce modern usage.
 - Retired dress-up phrasal verbs with no contemporary currency and documented their removal.
 - Trimmed "figure" family synonyms to high-confidence matches while preserving primary senses.
+2025-11-02: Processed slim/g.min.json entries grape jelly – grassy death camas (80 words).
+- Included scientific names for plant entries when multiple common names refer to the same species.
+- Trimmed slang and duplicate senses to keep botanical headwords focused on core modern usage.
+2025-11-02: Processed slim/h.min.json entries handbag – handrail (60 words).
+- Retired archaic equipment terms and outdated labels (e.g., handbow, handicapped person) rather than rewriting them.
+- Paired spelling variants like handcolor/handcolour with reciprocal synonyms and fresh examples for clarity.
+- Grounded abstract senses in current contexts, such as e-commerce fees and media coverage, to keep examples relatable.
+2025-11-02: Processed slim/i.min.json entries incomplete – incorruptible (60 words).
+- Used "variant spelling of" phrasing when a headword simply redirects to a better-attested form.
+- Trimmed adjective entries to a maximum of two modern senses unless additional meanings reflect clearly distinct contemporary uses.
+2025-11-02: Processed slim/j.min.json entries jalopy – jawless (65 words).
+- Removed slur-derived plant labels, steering readers toward neutral botanical names instead.
+- Split shared-headword gerunds into distinct senses only when the usage context meaningfully differs from the base noun.
+2025-11-02: Processed slim/k.min.json entries kempt – kelp (81 words).
+- Marked historical or variant spellings directly in the definition text so readers know when usage is limited.
+- Trimmed multi-sense verbs to core contemporary meanings and rewrote examples to highlight everyday contexts.
+2025-11-03: Processed slim/l.min.json entries lactoflavin – ladybird beetle (58 words).
+- Retired nonstandard or euphemistic lemmas (e.g., ladened, lady of pleasure) when they duplicate a modern primary form.
+- Unified variant plant names by giving the shared botanical description once and cross-referencing through synonyms.
+2025-11-01: Processed slim/m.min.json entries mare nostrum – marionette (60 words).
+- Included scientific names for flora and fauna when they clarify the referenced species.
+- Limited maritime and financial synonyms to widely used, present-day equivalents that match the refined sense precisely.
+2025-11-02: Processed slim/o.min.json entries obliging – one-celled (60 words).
+- Consolidated multi-sense headwords around core modern usage with concise, scenario-based examples.
+- Harmonized overlapping phrasal-verb variants by giving each a standalone vigilance example instead of circular cross-references.
+2025-11-03: Processed slim/n.min.json entries narcotised – nasal concha (60 words).
+- Listed scientific or common Latin names for botanic entries when they clarify identification without overloading the definition.
+- Treated variant spellings and spacing (e.g., narrow-body vs. narrowbody) as fully defined lemmas that mutually cross-reference through synonyms.
+2025-11-02: Processed slim/p.min.json entries parlor grand – plate (75 words).
+- Paired closely related variant spellings through reciprocal synonyms while keeping full definitions for each.
+- Consolidated multi-sense technical items around present-day core uses and refreshed examples to highlight contemporary contexts.
+2025-11-03: Processed slim/q.min.json entries quinquefoliate – quelling (60 words).
+- Stated decimal exponents when defining large-number ordinals to keep scale unambiguous.
+- Identified close variant spellings within the definition instead of duplicating them in synonym lists.
+2025-11-03: Processed slim/r.min.json entries referenced – rotten (60 words).
+- Retired archaic or slang senses for "rum" and "rummy" when not in current general use.
+- Framed technical genetics and mathematics senses with plain-language cues before specialized terminology.
+2025-11-02: Processed slim/s.min.json entries scholar – schoolwork (60 words).
+- Differentiated near-duplicate school-related compounds by emphasizing audience, governance, or outcome in each definition.
+- Flagged dated occupational labels directly in the definition instead of keeping them via synonym cross-references alone.
+2025-11-02: Processed slim/t.min.json entries to the full – there (50 words).
+- Marked formal register within definitions instead of relying on archaic cross-references.
+- Trimmed slang-only senses while keeping core modern usages and concise, illustrative examples.
+2025-11-03: Processed slim/u.min.json entries unaccompanied – unangry (60 words).
+- Tag multiword adjective lemmas with the adjective label instead of introducing new speech-part values.
+- Distinguish identical forms used adjectivally and adverbially when modern usage clearly supports both.
+2025-11-03: Processed slim/v.min.json entries vatical – vented (60 words).
+- Treated Roman numeral lemmas as noun senses with uppercase usage examples to emphasize their symbolic function.
+- Used inclusive, service-oriented examples when defining accessibility descriptors like "visually impaired" and "visually challenged".
+2025-11-02: Processed slim/w.min.json entries wackily – wainscotting (66 words reviewed; 61 retained).
+- Retired redundant plural or archaic lemmas (wads, wafture, wain, wage increase, wage schedule) when the core headword already covers the sense.
+- Flagged informal terms and variant spellings within definitions instead of duplicating them through synonyms alone.
+- Added contemporary industry context when defining technical materials such as semiconductor wafers.
+2025-11-02: Processed slim/e.min.json entries eyed – exasperating (80 words).
+- Marked variant spellings and nonstandard forms explicitly while supplying modern context sentences.
+- Consolidated multi-sense verbs to core literal and figurative uses with contemporary action-oriented examples.
+2025-11-02: Processed slim/c.min.json entries CE – carefully (60 words).
+- Marked calendar abbreviations with speech_part "abbreviation" and defined them through their expanded form.
+- Consolidated broad utility verbs by keeping only widely used modern senses with fresh, concrete examples across parts of speech.
+2025-11-02: Processed slim/a.min.json entries all at once – artfully (60 words).
+- Retired euphemistic senses that drift into slang, keeping multiword adverbs focused on broadly used meanings.
+- Recast high-frequency adverbs with action-centered examples and pruned synonyms to direct, contemporary matches.
+2025-11-01: Processed slim/b.min.json entries bacchant – backbench (60 words).
+- Tagged dated expressions within definitions instead of maintaining separate archaic senses.
+- Streamlined multi-part-of-speech headwords by retaining only contemporary, high-frequency meanings with fresh examples.
+2025-11-03: Processed slim/x.min.json entries xenophobic – xerophytic (50 words).
+- Treated Roman numeral entries as noun senses with clear usage examples for consistency.
+- Flagged nonclassical numeral forms directly in the definition when retained.
+2025-11-03: Processed slim/y.min.json entries yarmulke – yellow metal (60 words).
+- Paired plant and animal entries with scientific identifiers and observable traits to ground definitions in general reference use.
+- Marked historical medical concepts explicitly as such when context justified retention.
+2025-11-03: Processed slim/z.min.json entries ziggurat – zoom (60 words).
+- Marked historical senses with an explicit usage label when retaining specialist terminology.
+- Used "variant spelling" phrasing for alternative forms while giving them independent contemporary examples.
