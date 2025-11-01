@@ -95,3 +95,6 @@
 2025-11-03: Processed slim/z.min.json entries ziggurat – zoom (60 words).
 - Marked historical senses with an explicit usage label when retaining specialist terminology.
 - Used "variant spelling" phrasing for alternative forms while giving them independent contemporary examples.
+2025-11-03: Processed slim/e.min.json entries earmark – earwig (60 words).
+- Standardized variant deity and fungus lemmas by pairing matching definitions with cross-referenced synonyms only when they share the same concept.
+- Highlighted safety or usage context for edible versus poisonous tubers and fungi to keep guidance practical and current.
