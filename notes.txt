@@ -32,3 +32,6 @@
 2025-11-03: Processed slim/x.min.json entries xenophobic – xerophytic (50 words).
 - Treated Roman numeral entries as noun senses with clear usage examples for consistency.
 - Flagged nonclassical numeral forms directly in the definition when retained.
+2025-11-03: Processed slim/z.min.json entries ziggurat – zoom (60 words).
+- Marked historical senses with an explicit usage label when retaining specialist terminology.
+- Used "variant spelling" phrasing for alternative forms while giving them independent contemporary examples.
