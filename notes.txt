@@ -17,6 +17,9 @@
 - Omitted narrow taxonomic and duplicate execution-rope entries when they do not reflect current general usage.
 - Framed phrasal verb examples around contemporary speech situations to keep senses concrete.
 - Retired archaic idiom duplicates when a modern equivalent already carries the sense.
+2025-11-02: Processed slim/s.min.json entries scholar – schoolwork (60 words).
+- Differentiated near-duplicate school-related compounds by emphasizing audience, governance, or outcome in each definition.
+- Flagged dated occupational labels directly in the definition instead of keeping them via synonym cross-references alone.
 2025-11-02: Processed slim/t.min.json entries to the full – there (50 words).
 - Marked formal register within definitions instead of relying on archaic cross-references.
 - Trimmed slang-only senses while keeping core modern usages and concise, illustrative examples.
