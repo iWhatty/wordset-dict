@@ -7,3 +7,6 @@
 2025-11-01: Processed slim/q.min.json entries quite – quasi-religious (60 words).
 - Clarified LGBTQ+ identity terms with respectful, community-centered language while omitting derogatory noun senses.
 - Limited comparative and superlative entries to their adjective functions when that reflects contemporary usage.
+2025-11-02: Processed slim/u.min.json entries uncomfortably – unconscientious (50 words).
+- Gave variant spellings parallel definitions with distinct, contemporary examples instead of cross-references.
+- Limited synonyms to direct, high-confidence matches to reinforce concise sense boundaries.
