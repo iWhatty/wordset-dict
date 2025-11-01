@@ -17,3 +17,6 @@
 - Omitted narrow taxonomic and duplicate execution-rope entries when they do not reflect current general usage.
 - Framed phrasal verb examples around contemporary speech situations to keep senses concrete.
 - Retired archaic idiom duplicates when a modern equivalent already carries the sense.
+2025-11-01: Processed slim/b.min.json entries bacchant – backbench (60 words).
+- Tagged dated expressions within definitions instead of maintaining separate archaic senses.
+- Streamlined multi-part-of-speech headwords by retaining only contemporary, high-frequency meanings with fresh examples.
