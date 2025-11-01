@@ -17,3 +17,6 @@
 - Omitted narrow taxonomic and duplicate execution-rope entries when they do not reflect current general usage.
 - Framed phrasal verb examples around contemporary speech situations to keep senses concrete.
 - Retired archaic idiom duplicates when a modern equivalent already carries the sense.
+2025-11-02: Processed slim/g.min.json entries grape jelly – grassy death camas (80 words).
+- Included scientific names for plant entries when multiple common names refer to the same species.
+- Trimmed slang and duplicate senses to keep botanical headwords focused on core modern usage.
