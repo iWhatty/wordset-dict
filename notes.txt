@@ -20,3 +20,6 @@
 2025-11-01: Processed slim/b.min.json entries bacchant – backbench (60 words).
 - Tagged dated expressions within definitions instead of maintaining separate archaic senses.
 - Streamlined multi-part-of-speech headwords by retaining only contemporary, high-frequency meanings with fresh examples.
+2025-11-03: Processed slim/x.min.json entries xenophobic – xerophytic (50 words).
+- Treated Roman numeral entries as noun senses with clear usage examples for consistency.
+- Flagged nonclassical numeral forms directly in the definition when retained.
