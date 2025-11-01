@@ -17,3 +17,6 @@
 - Omitted narrow taxonomic and duplicate execution-rope entries when they do not reflect current general usage.
 - Framed phrasal verb examples around contemporary speech situations to keep senses concrete.
 - Retired archaic idiom duplicates when a modern equivalent already carries the sense.
+2025-11-02: Processed slim/j.min.json entries jalopy – jawless (65 words).
+- Removed slur-derived plant labels, steering readers toward neutral botanical names instead.
+- Split shared-headword gerunds into distinct senses only when the usage context meaningfully differs from the base noun.
