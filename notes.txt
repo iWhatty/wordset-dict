@@ -17,6 +17,9 @@
 - Omitted narrow taxonomic and duplicate execution-rope entries when they do not reflect current general usage.
 - Framed phrasal verb examples around contemporary speech situations to keep senses concrete.
 - Retired archaic idiom duplicates when a modern equivalent already carries the sense.
+2025-11-03: Processed slim/q.min.json entries quinquefoliate – quelling (60 words).
+- Stated decimal exponents when defining large-number ordinals to keep scale unambiguous.
+- Identified close variant spellings within the definition instead of duplicating them in synonym lists.
 2025-11-03: Processed slim/r.min.json entries referenced – rotten (60 words).
 - Retired archaic or slang senses for "rum" and "rummy" when not in current general use.
 - Framed technical genetics and mathematics senses with plain-language cues before specialized terminology.
