@@ -13,3 +13,7 @@
 2025-11-02: Processed slim/k.min.json entries kaoliang – kebab (56 words).
 - Specified decimal (10^3) quantities when defining metric data abbreviations and noted legacy usage where needed.
 - Gave culturally specific food and drink entries grounded, contemporary examples to support accessible usage guidance.
+2025-11-01: Processed slim/h.min.json entries hands down – hangout (54 words).
+- Omitted narrow taxonomic and duplicate execution-rope entries when they do not reflect current general usage.
+- Framed phrasal verb examples around contemporary speech situations to keep senses concrete.
+- Retired archaic idiom duplicates when a modern equivalent already carries the sense.
