@@ -17,6 +17,9 @@
 - Omitted narrow taxonomic and duplicate execution-rope entries when they do not reflect current general usage.
 - Framed phrasal verb examples around contemporary speech situations to keep senses concrete.
 - Retired archaic idiom duplicates when a modern equivalent already carries the sense.
+2025-11-02: Processed slim/p.min.json entries parlor grand – plate (75 words).
+- Paired closely related variant spellings through reciprocal synonyms while keeping full definitions for each.
+- Consolidated multi-sense technical items around present-day core uses and refreshed examples to highlight contemporary contexts.
 2025-11-03: Processed slim/q.min.json entries quinquefoliate – quelling (60 words).
 - Stated decimal exponents when defining large-number ordinals to keep scale unambiguous.
 - Identified close variant spellings within the definition instead of duplicating them in synonym lists.
