@@ -17,3 +17,6 @@
 - Omitted narrow taxonomic and duplicate execution-rope entries when they do not reflect current general usage.
 - Framed phrasal verb examples around contemporary speech situations to keep senses concrete.
 - Retired archaic idiom duplicates when a modern equivalent already carries the sense.
+2025-11-03: Processed slim/l.min.json entries lactoflavin – ladybird beetle (58 words).
+- Retired nonstandard or euphemistic lemmas (e.g., ladened, lady of pleasure) when they duplicate a modern primary form.
+- Unified variant plant names by giving the shared botanical description once and cross-referencing through synonyms.
