@@ -4,3 +4,6 @@
 2024-03-17: Processed slim/z.min.json entries zero hour – zizz (50 words).
 - Treat variant spellings as standalone entries that explicitly reference the primary lemma in the definition.
 - Use decimal (10^21) values when defining zetta-scale data units unless context requires binary clarification.
+2025-11-01: Processed slim/q.min.json entries quite – quasi-religious (60 words).
+- Clarified LGBTQ+ identity terms with respectful, community-centered language while omitting derogatory noun senses.
+- Limited comparative and superlative entries to their adjective functions when that reflects contemporary usage.
