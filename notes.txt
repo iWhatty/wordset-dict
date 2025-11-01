@@ -20,3 +20,31 @@
 2025-11-03: Processed slim/u.min.json entries unaccompanied – unangry (60 words).
 - Tag multiword adjective lemmas with the adjective label instead of introducing new speech-part values.
 - Distinguish identical forms used adjectivally and adverbially when modern usage clearly supports both.
+2025-11-03: Processed slim/v.min.json entries vatical – vented (60 words).
+- Treated Roman numeral lemmas as noun senses with uppercase usage examples to emphasize their symbolic function.
+- Used inclusive, service-oriented examples when defining accessibility descriptors like "visually impaired" and "visually challenged".
+2025-11-02: Processed slim/w.min.json entries wackily – wainscotting (66 words reviewed; 61 retained).
+- Retired redundant plural or archaic lemmas (wads, wafture, wain, wage increase, wage schedule) when the core headword already covers the sense.
+- Flagged informal terms and variant spellings within definitions instead of duplicating them through synonyms alone.
+- Added contemporary industry context when defining technical materials such as semiconductor wafers.
+2025-11-02: Processed slim/e.min.json entries eyed – exasperating (80 words).
+- Marked variant spellings and nonstandard forms explicitly while supplying modern context sentences.
+- Consolidated multi-sense verbs to core literal and figurative uses with contemporary action-oriented examples.
+2025-11-02: Processed slim/c.min.json entries CE – carefully (60 words).
+- Marked calendar abbreviations with speech_part "abbreviation" and defined them through their expanded form.
+- Consolidated broad utility verbs by keeping only widely used modern senses with fresh, concrete examples across parts of speech.
+2025-11-02: Processed slim/a.min.json entries all at once – artfully (60 words).
+- Retired euphemistic senses that drift into slang, keeping multiword adverbs focused on broadly used meanings.
+- Recast high-frequency adverbs with action-centered examples and pruned synonyms to direct, contemporary matches.
+2025-11-01: Processed slim/b.min.json entries bacchant – backbench (60 words).
+- Tagged dated expressions within definitions instead of maintaining separate archaic senses.
+- Streamlined multi-part-of-speech headwords by retaining only contemporary, high-frequency meanings with fresh examples.
+2025-11-03: Processed slim/x.min.json entries xenophobic – xerophytic (50 words).
+- Treated Roman numeral entries as noun senses with clear usage examples for consistency.
+- Flagged nonclassical numeral forms directly in the definition when retained.
+2025-11-03: Processed slim/y.min.json entries yarmulke – yellow metal (60 words).
+- Paired plant and animal entries with scientific identifiers and observable traits to ground definitions in general reference use.
+- Marked historical medical concepts explicitly as such when context justified retention.
+2025-11-03: Processed slim/z.min.json entries ziggurat – zoom (60 words).
+- Marked historical senses with an explicit usage label when retaining specialist terminology.
+- Used "variant spelling" phrasing for alternative forms while giving them independent contemporary examples.
