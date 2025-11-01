@@ -1,0 +1,3 @@
+2025-11-02: Processed slim/g.min.json entries grape jelly – grassy death camas (80 words).
+- Included scientific names for plant entries when multiple common names refer to the same species.
+- Trimmed slang and duplicate senses to keep botanical headwords focused on core modern usage.

@@ -1,0 +1,3 @@
+2025-11-03: Processed slim/x.min.json entries xenophobic – xerophytic (50 words).
+- Treated Roman numeral entries as noun senses with clear usage examples for consistency.
+- Flagged nonclassical numeral forms directly in the definition when retained.

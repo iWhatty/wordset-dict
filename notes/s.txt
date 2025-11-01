@@ -1,0 +1,3 @@
+2025-11-02: Processed slim/s.min.json entries scholar – schoolwork (60 words).
+- Differentiated near-duplicate school-related compounds by emphasizing audience, governance, or outcome in each definition.
+- Flagged dated occupational labels directly in the definition instead of keeping them via synonym cross-references alone.

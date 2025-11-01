@@ -1,0 +1,9 @@
+2025-11-01: Processed slim/h.min.json entries hands down – hangout (54 words).
+- Omitted narrow taxonomic and duplicate execution-rope entries when they do not reflect current general usage.
+- Framed phrasal verb examples around contemporary speech situations to keep senses concrete.
+- Retired archaic idiom duplicates when a modern equivalent already carries the sense.
+
+2025-11-02: Processed slim/h.min.json entries handbag – handrail (60 words).
+- Retired archaic equipment terms and outdated labels (e.g., handbow, handicapped person) rather than rewriting them.
+- Paired spelling variants like handcolor/handcolour with reciprocal synonyms and fresh examples for clarity.
+- Grounded abstract senses in current contexts, such as e-commerce fees and media coverage, to keep examples relatable.

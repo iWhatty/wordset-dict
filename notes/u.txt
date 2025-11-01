@@ -1,0 +1,7 @@
+2025-11-02: Processed slim/u.min.json entries uncomfortably – unconscientious (50 words).
+- Gave variant spellings parallel definitions with distinct, contemporary examples instead of cross-references.
+- Limited synonyms to direct, high-confidence matches to reinforce concise sense boundaries.
+
+2025-11-03: Processed slim/u.min.json entries unaccompanied – unangry (60 words).
+- Tag multiword adjective lemmas with the adjective label instead of introducing new speech-part values.
+- Distinguish identical forms used adjectivally and adverbially when modern usage clearly supports both.

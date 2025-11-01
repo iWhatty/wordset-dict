@@ -1,0 +1,7 @@
+2025-11-01: Processed slim/q.min.json entries quite – quasi-religious (60 words).
+- Clarified LGBTQ+ identity terms with respectful, community-centered language while omitting derogatory noun senses.
+- Limited comparative and superlative entries to their adjective functions when that reflects contemporary usage.
+
+2025-11-03: Processed slim/q.min.json entries quinquefoliate – quelling (60 words).
+- Stated decimal exponents when defining large-number ordinals to keep scale unambiguous.
+- Identified close variant spellings within the definition instead of duplicating them in synonym lists.

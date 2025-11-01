@@ -1,0 +1,3 @@
+2025-11-01: Processed slim/m.min.json entries mare nostrum – marionette (60 words).
+- Included scientific names for flora and fauna when they clarify the referenced species.
+- Limited maritime and financial synonyms to widely used, present-day equivalents that match the refined sense precisely.

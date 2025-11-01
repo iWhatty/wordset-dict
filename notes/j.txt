@@ -1,0 +1,3 @@
+2025-11-02: Processed slim/j.min.json entries jalopy – jawless (65 words).
+- Removed slur-derived plant labels, steering readers toward neutral botanical names instead.
+- Split shared-headword gerunds into distinct senses only when the usage context meaningfully differs from the base noun.
