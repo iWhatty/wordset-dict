@@ -17,6 +17,9 @@
 - Omitted narrow taxonomic and duplicate execution-rope entries when they do not reflect current general usage.
 - Framed phrasal verb examples around contemporary speech situations to keep senses concrete.
 - Retired archaic idiom duplicates when a modern equivalent already carries the sense.
+2025-11-03: Processed slim/n.min.json entries narcotised – nasal concha (60 words).
+- Listed scientific or common Latin names for botanic entries when they clarify identification without overloading the definition.
+- Treated variant spellings and spacing (e.g., narrow-body vs. narrowbody) as fully defined lemmas that mutually cross-reference through synonyms.
 2025-11-02: Processed slim/p.min.json entries parlor grand – plate (75 words).
 - Paired closely related variant spellings through reciprocal synonyms while keeping full definitions for each.
 - Consolidated multi-sense technical items around present-day core uses and refreshed examples to highlight contemporary contexts.
