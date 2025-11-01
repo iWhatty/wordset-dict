@@ -20,3 +20,15 @@
 2025-11-02: Processed slim/e.min.json entries eyed – exasperating (80 words).
 - Marked variant spellings and nonstandard forms explicitly while supplying modern context sentences.
 - Consolidated multi-sense verbs to core literal and figurative uses with contemporary action-oriented examples.
+2025-11-02: Processed slim/c.min.json entries CE – carefully (60 words).
+- Marked calendar abbreviations with speech_part "abbreviation" and defined them through their expanded form.
+- Consolidated broad utility verbs by keeping only widely used modern senses with fresh, concrete examples across parts of speech.
+2025-11-02: Processed slim/a.min.json entries all at once – artfully (60 words).
+- Retired euphemistic senses that drift into slang, keeping multiword adverbs focused on broadly used meanings.
+- Recast high-frequency adverbs with action-centered examples and pruned synonyms to direct, contemporary matches.
+2025-11-01: Processed slim/b.min.json entries bacchant – backbench (60 words).
+- Tagged dated expressions within definitions instead of maintaining separate archaic senses.
+- Streamlined multi-part-of-speech headwords by retaining only contemporary, high-frequency meanings with fresh examples.
+2025-11-03: Processed slim/x.min.json entries xenophobic – xerophytic (50 words).
+- Treated Roman numeral entries as noun senses with clear usage examples for consistency.
+- Flagged nonclassical numeral forms directly in the definition when retained.
