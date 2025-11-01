@@ -17,3 +17,6 @@
 - Omitted narrow taxonomic and duplicate execution-rope entries when they do not reflect current general usage.
 - Framed phrasal verb examples around contemporary speech situations to keep senses concrete.
 - Retired archaic idiom duplicates when a modern equivalent already carries the sense.
+2025-11-02: Processed slim/c.min.json entries CE – carefully (60 words).
+- Marked calendar abbreviations with speech_part "abbreviation" and defined them through their expanded form.
+- Consolidated broad utility verbs by keeping only widely used modern senses with fresh, concrete examples across parts of speech.
