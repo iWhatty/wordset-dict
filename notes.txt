@@ -17,3 +17,7 @@
 - Omitted narrow taxonomic and duplicate execution-rope entries when they do not reflect current general usage.
 - Framed phrasal verb examples around contemporary speech situations to keep senses concrete.
 - Retired archaic idiom duplicates when a modern equivalent already carries the sense.
+2025-11-03: Processed slim/f.min.json entries fifty-fifth – fight off (60 words; fig out/fig up omitted as obsolete).
+- Added contextual examples for cardinal and ordinal numerals to reinforce modern usage.
+- Retired dress-up phrasal verbs with no contemporary currency and documented their removal.
+- Trimmed "figure" family synonyms to high-confidence matches while preserving primary senses.
