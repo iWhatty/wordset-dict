@@ -17,6 +17,9 @@
 - Omitted narrow taxonomic and duplicate execution-rope entries when they do not reflect current general usage.
 - Framed phrasal verb examples around contemporary speech situations to keep senses concrete.
 - Retired archaic idiom duplicates when a modern equivalent already carries the sense.
+2025-11-02: Processed slim/k.min.json entries kempt – kelp (81 words).
+- Marked historical or variant spellings directly in the definition text so readers know when usage is limited.
+- Trimmed multi-sense verbs to core contemporary meanings and rewrote examples to highlight everyday contexts.
 2025-11-03: Processed slim/l.min.json entries lactoflavin – ladybird beetle (58 words).
 - Retired nonstandard or euphemistic lemmas (e.g., ladened, lady of pleasure) when they duplicate a modern primary form.
 - Unified variant plant names by giving the shared botanical description once and cross-referencing through synonyms.
