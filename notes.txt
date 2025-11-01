@@ -10,3 +10,6 @@
 2025-11-02: Processed slim/u.min.json entries uncomfortably – unconscientious (50 words).
 - Gave variant spellings parallel definitions with distinct, contemporary examples instead of cross-references.
 - Limited synonyms to direct, high-confidence matches to reinforce concise sense boundaries.
+2025-11-02: Processed slim/k.min.json entries kaoliang – kebab (56 words).
+- Specified decimal (10^3) quantities when defining metric data abbreviations and noted legacy usage where needed.
+- Gave culturally specific food and drink entries grounded, contemporary examples to support accessible usage guidance.
